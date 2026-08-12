@@ -22,6 +22,7 @@ public class For36 {
 			}
 			if (prime) {
 				sum += i;
+				System.out.print(i+" ");
 			}
 		}
 		System.out.println("SUM OF PRIME NUMBERS FROM GIVEN RANGE :" + sum);
