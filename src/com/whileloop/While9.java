@@ -1,5 +1,6 @@
 package com.whileloop;
 
+
 //Print numbers starting with 1
 import java.util.Scanner;
 
