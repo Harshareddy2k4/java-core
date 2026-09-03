@@ -4,7 +4,7 @@ public class Fun1 {
 //pattern
 	public static void main(String[] args) {
 	
-		        System.out.println("THANKS You 💙");
+		        System.out.println("GOOD MORNING GUYS 💙");
 		      for (int i = 0; i < 2; i++) {
 
 		            for (int j = 0; j < 2 - i; j++)
