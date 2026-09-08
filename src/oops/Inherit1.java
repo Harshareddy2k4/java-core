@@ -19,5 +19,6 @@ public class Inherit1 {
 		Vehicle11 c = new Car11();
 		c.display();
 	}
-
 }
+
+
