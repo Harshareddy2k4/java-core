@@ -41,11 +41,10 @@ public class Case5 {
 	public static void main(String[] args) {
 		Employee e ;
 		e = new Doctor();
-		Doctor d = new Doctor();
-		d.run();
 		
 		e.work();
-		e = new Nurse();		e.work();
+		e = new Nurse();
+		e.work();
 		e = new Receptionist();
 		e.work();
 		
